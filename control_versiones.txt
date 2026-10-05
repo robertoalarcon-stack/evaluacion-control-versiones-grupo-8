@@ -1,0 +1,9 @@
+EVALUACION PRIMER PARCIAL
+Asignatura: Mantenimiento y Configuracion de Software
+Grupo: Grupo N
+Sistema: SIRELAB
+Tipo de cambio: mantenimiento correctivo y documental
+Estado: EN REVISION
+Actividad realizada: creacion del registro inicial
+Resultado: pendiente de pruebas
+Proxima accion: ejecutar las pruebas del cambio
